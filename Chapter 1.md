@@ -40,7 +40,7 @@
 
 - JavaScript（JS）：负责网页的行为；
 
-### HTML&CSS（一周）
+### HTML&CSS（两周）
 
 HTML是一种用于创建网页的标准标记语言，CSS是一种用来为结构化文档（如 HTML 文档）添加样式（字体、间距和颜色等）的计算机语言。
 
@@ -50,9 +50,11 @@ HTML是一种用于创建网页的标准标记语言，CSS是一种用来为结�
 
 - [HTML 教程 | 菜鸟教程 ](https://www.runoob.com/html/html-tutorial.html)& [HTML 简介](https://www.w3school.com.cn/html/html_jianjie.asp)
 - [CSS 教程 | 菜鸟教程 ](https://www.runoob.com/css/css-tutorial.html)& [CSS 教程](https://www.w3school.com.cn/css/index.asp)
-- [黑马程序员pink老师前端入门教程，零基础必看的h5(html5)+css3+移动端前端视频教程](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.337.search-card.all.click)（篇幅较长，建议两倍速观看，很多标签其实并不常用，建立基本概念即可）
+- [黑马程序员pink老师前端入门教程，零基础必看的h5(html5)+css3+移动端前端视频教程](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.337.search-card.all.click)
 - [前端Web开发HTML5+CSS3+移动web视频教程，前端web入门首选黑马程序员](https://www.bilibili.com/video/BV1kM4y127Li/?p=163&share_source=copy_web&vd_source=f0feeabea5218426e0818f5ed0a6df70)
-### JavaScript&HTML DOM（一周）
+ps：视频篇幅较长，建议两倍速观看，很多标签其实并不常用，建立基本概念即可。实际上手写代码遇到不熟悉的内容，可以多查阅文档。
+
+### JavaScript&HTML DOM（两周）
 
 JavaScript 是属于 Web 的编程语言，其最初的目的是为了“赋予网页生命”，这种编程语言我们称之为脚本。浏览器中的 JavaScript 可以做与网页操作、用户交互和 Web 服务器相关的所有事情。它们可以写在 HTML 中，在页面加载的时候会自动执行。HTML DOM 定义了访问和操作 HTML 文档的标准方法。通过 HTML DOM，JavaScript 能够访问和改变 HTML 文档的所有元素。
 
@@ -63,6 +65,7 @@ JS在语法上和C语言有一些类似之处，凭借C语言基础，相信大�
 - [JavaScript 教程 | 菜鸟教程](https://www.runoob.com/js/js-tutorial.html) & [JavaScript 教程](https://www.w3school.com.cn/js/index.asp)
 - [HTML DOM 教程 | 菜鸟教程](https://www.runoob.com/htmldom/htmldom-tutorial.html) & [JavaScript HTML DOM](https://www.w3school.com.cn/js/js_htmldom.asp)
 
-[^未完待续……]: 两周学多少不是重点，重点是能不能灵活运用学到的知识搭建网页
+[^未完待续……]: 看网课的进度不是重点，重点是能不能灵活运用学到的知识搭建网页
+
 
 
