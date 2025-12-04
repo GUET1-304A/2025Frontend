@@ -8,4 +8,5 @@
   
 📚 进度说明
 - [Chapter 1](https://github.com/GUET1-304A/2025Frontend/blob/main/Chapter%201.md)：涵盖前端定义、核心技术栈（HTML+CSS+JavaScript）及基础学习规划
+- [test 1](https://github.com/GUET1-304A/2025Frontend/blob/main/test1.md)：大一上学期中期考核内容之官网复刻，用前端实现酷炫交互效果
 - 后续将持续补充更多章节（如前端框架、常用组件、小程序开发等）
